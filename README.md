@@ -63,7 +63,8 @@ python run_om.py
 ```
 ![Image text](https://github.com/lyz678/Emotion-recogniton-pytorch/blob/main/result/demo3.JPG)
 
-
+#参考
+https://github.com/otaha178/Emotion-recognition
 
 
 
